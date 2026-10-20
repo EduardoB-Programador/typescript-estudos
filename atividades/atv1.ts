@@ -1,5 +1,6 @@
 type ValorSN = number | string
 
+//kjgjgjgkjhg
 const valor = 10
 let valor2: ValorSN = 10
 
